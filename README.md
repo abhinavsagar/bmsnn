@@ -24,11 +24,11 @@ The dataset can be downloaded from [ShanghaiTech](https://svip-lab.github.io/dat
 
 ## Our Aggregation Module
 
-![results](images/img1.png)
+![results](images/img2.png)
 
 ## Network Architecture
 
-![results](images/img2.png)
+![results](images/img1.png)
 
 ## Algorithm
 
