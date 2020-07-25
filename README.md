@@ -4,6 +4,20 @@ Code for the paper `Bayesian Multi Scale Neural Network for Crowd Counting`.
 
 Link to [Paper](https://abhinavsagar.github.io/files/crowd_count.pdf).
 
+## Abstract
+
+Crowd Counting is a difficult but important problem in computer vision. Convolutional Neural Networks based on estimating the density map over the image has
+been highly successful in this domain. However dense crowd counting remains an
+open problem because of severe occlusion and perspective view in which people
+can be present at various sizes. In this work, we propose a new network which
+uses a ResNet based feature extractor, downsampling block which uses dilated
+convolutions and upsampling block using transposed convolutions. We present a
+novel aggregation module which makes our network robust to the perspective view
+problem. We present the optimization details, loss functions and the algorithm
+used in our work. On evaluating on ShanghaiTech, UCF-CC-50 and UCF-QNRF
+datasets using MSE and MAE as evaluation metrics, our network outperforms previous state of the art approaches while giving uncertainty estimates in a principled
+bayesian manner.
+
 ## Data
 
 The dataset can be downloaded from [ShanghaiTech](https://svip-lab.github.io/datasets.html), [UCF-CC-50](https://www.crcv.ucf.edu/research/data-sets/ucf-cc-50/) and [UCF-QNRF](https://www.crcv.ucf.edu/research/data-sets/ucf-qnrf/).
