@@ -4,6 +4,8 @@ Code for the paper `Bayesian Multi Scale Neural Network for Crowd Counting`.
 
 Link to [Paper](https://abhinavsagar.github.io/files/crowd_count.pdf).
 
+Link to [Blog](https://towardsdatascience.com/crowd-counting-using-bayesian-multi-scale-neural-networks-4e3d46cd048b).
+
 ## Abstract
 
 Crowd Counting is a difficult but important problem in computer vision. Convolutional Neural Networks based on estimating the density map over the image has
