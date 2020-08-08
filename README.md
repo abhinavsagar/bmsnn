@@ -60,9 +60,11 @@ The dataset can be downloaded from [ShanghaiTech](https://svip-lab.github.io/dat
 If you find this code useful in your research, please consider citing the paper:
 
 ```
-@article{sagarcrowd,
+@article{sagar2020bayesian,
   title={Bayesian Multi Scale Neural Network for Crowd Counting},
-  author={Sagar, Abhinav}
+  author={Sagar, Abhinav},
+  journal={arXiv preprint arXiv:2007.14245},
+  year={2020}
 }
 ```
 
