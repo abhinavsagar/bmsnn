@@ -1,8 +1,7 @@
 # Bayesian Multi Scale Neural Network for Crowd Counting
 Code for the paper `Bayesian Multi Scale Neural Network for Crowd Counting`.
 
-
-Link to [Paper](https://arxiv.org/pdf/2007.14245).
+https://arxiv.org/pdf/2007.14245
 
 ## Abstract
 
