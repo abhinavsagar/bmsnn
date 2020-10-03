@@ -17,28 +17,26 @@ used in our work. On evaluating on ShanghaiTech, UCF-CC-50 and UCF-QNRF
 datasets using MSE and MAE as evaluation metrics, our network outperforms previous state of the art approaches while giving uncertainty estimates in a principled
 bayesian manner.
 
-## Data
+## Data:
 
 The dataset can be downloaded from [ShanghaiTech](https://svip-lab.github.io/datasets.html), [UCF-CC-50](https://www.crcv.ucf.edu/research/data-sets/ucf-cc-50/) and [UCF-QNRF](https://www.crcv.ucf.edu/research/data-sets/ucf-qnrf/).
 
-## Our Aggregation Module
+## Our Aggregation Module:
 
 ![results](images/img2.png)
 
-## Network Architecture
+## Network Architecture:
 
 ![results](images/img1.png)
 
-## Algorithm
+## Algorithm:
 
 ![results](images/img3.png)
 
 ## Usage
 
-1. Download datasets. 
-2. `cd notebook`.
-3. Run `generate_datasets.ipynb`.
-4. Run `main.ipynb`.
+Run `generate_datasets.ipynb`.
+Run `main.ipynb`.
 
 ## Results
 
@@ -69,9 +67,9 @@ BibTex:
 }
 ```
 
-APA:
+MLA:
 
-`Sagar, A. (2020). Bayesian multi scale neural network for crowd counting. arXiv preprint arXiv:2007.14245.`
+`Sagar, Abhinav. "Bayesian multi scale neural network for crowd counting." arXiv preprint arXiv:2007.14245 (2020).`
 
 ## License
 
