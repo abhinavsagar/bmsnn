@@ -3,6 +3,25 @@ Code for the paper `Bayesian Multi Scale Neural Network for Crowd Counting`.
 
 https://arxiv.org/pdf/2007.14245
 
+## Citing
+
+If you find this code useful in your research, please consider citing the paper:
+
+BibTex:
+
+```
+@article{sagar2020bayesian,
+  title={Bayesian Multi Scale Neural Network for Crowd Counting},
+  author={Sagar, Abhinav},
+  journal={arXiv preprint arXiv:2007.14245},
+  year={2020}
+}
+```
+
+MLA:
+
+`Sagar, Abhinav. "Bayesian multi scale neural network for crowd counting." arXiv preprint arXiv:2007.14245 (2020).`
+
 ## Abstract
 
 Crowd Counting is a difficult but important problem in computer vision. Convolutional Neural Networks based on estimating the density map over the image has
@@ -53,24 +72,6 @@ Run `main.ipynb`.
 
 ![results](images/img9.png)
 
-## Citing
-
-If you find this code useful in your research, please consider citing the paper:
-
-BibTex:
-
-```
-@article{sagar2020bayesian,
-  title={Bayesian Multi Scale Neural Network for Crowd Counting},
-  author={Sagar, Abhinav},
-  journal={arXiv preprint arXiv:2007.14245},
-  year={2020}
-}
-```
-
-MLA:
-
-`Sagar, Abhinav. "Bayesian multi scale neural network for crowd counting." arXiv preprint arXiv:2007.14245 (2020).`
 
 ## License
 
